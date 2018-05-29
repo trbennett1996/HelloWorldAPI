@@ -7,6 +7,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HelloWorldAPI", "HelloWorld
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HelloWorldAPI.Tests", "HelloWorldAPI.Tests\HelloWorldAPI.Tests.csproj", "{C2C25403-B488-4677-A2FD-0C07C8755CEE}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HelloInfrastructure", "HelloInfrastructure\HelloInfrastructure.csproj", "{A3A2268B-0043-4D51-ABA2-37D790B1219F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HelloConsoleApp", "HelloConsoleApp\HelloConsoleApp.csproj", "{A826824A-64B3-47A7-A4CE-356C4452051E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +25,14 @@ Global
 		{C2C25403-B488-4677-A2FD-0C07C8755CEE}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C2C25403-B488-4677-A2FD-0C07C8755CEE}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C2C25403-B488-4677-A2FD-0C07C8755CEE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A3A2268B-0043-4D51-ABA2-37D790B1219F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A3A2268B-0043-4D51-ABA2-37D790B1219F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A3A2268B-0043-4D51-ABA2-37D790B1219F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A3A2268B-0043-4D51-ABA2-37D790B1219F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A826824A-64B3-47A7-A4CE-356C4452051E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A826824A-64B3-47A7-A4CE-356C4452051E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A826824A-64B3-47A7-A4CE-356C4452051E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A826824A-64B3-47A7-A4CE-356C4452051E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
